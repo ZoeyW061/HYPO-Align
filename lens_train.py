@@ -32,7 +32,7 @@ def convert_keys_to_str(d):
         return d
 
 
-hf_token = "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" #llama token
+hf_token = " " #llama token
 login(token=hf_token)
 model_names = ["meta-llama/Llama-2-7b-chat-hf"]
 models = ["llama2-7"]
